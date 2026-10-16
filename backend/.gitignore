@@ -3,3 +3,19 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+<<<<<<< Updated upstream
+=======
+
+# Python
+*.pyc
+.*__pycache__/
+
+# Virtual Environment
+venv/
+.venv/
+
+backend/hangry_api/.venv/
+
+.vscode/
+
+>>>>>>> Stashed changes
